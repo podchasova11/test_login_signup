@@ -44,3 +44,9 @@ class SignupLoginFormLocators:
     SIGNUP_INPUT_USERNAME_LOCATOR = (By.CSS_SELECTOR, "")
     SIGNUP_INPUT_PASSWORD_LOCATOR = (By.CSS_SELECTOR, "")
     SIGNUP_SUBMIT_BTN_LOCATOR = (By.CSS_SELECTOR, "#s_overlay .signup-form button[type=submit]")
+
+
+###########################
+
+
+
