@@ -6,9 +6,7 @@ from pages.Elements.ButtonTryDemoMainBanner import MainBannerTryDemo
 # from pages.Elements.ButtonTradeOnWidgetMostTraded import ButtonTradeOnWidgetMostTraded
 # from pages.Elements.ButtonDownloadAppStore import ButtonDownloadAppStore
 # from pages.Elements.ButtonGetItOnGooglePlay import ButtonGetItOnGooglePlay
-# from pages.Elements.ButtonExploreWebPlatform import ButtonExploreWebPlatform
-# from pages.Elements.BlockStepTrading import BlockStepTrading
-from src.src import CapitalComPageSrc
+# from pages.Elements.ButtonExploreWebPlatform import ButtonExploreWebPlatform  
 
 
 @pytest.fixture()
